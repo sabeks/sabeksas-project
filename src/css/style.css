@@ -16,15 +16,41 @@ a{
 .header{
 	background-color: blue;
 }
+
+
+.contact{background-color: white;
+			color: blue;
+			padding: 10px 20px;
+			border-radius: 10px;
+
+	
+}
 .main{
 	text-decoration: underline;
 }
-.picture{
-	weight:1125px;
-	height:600;
-	margin:auto;
+
+
+/*picture section*/
+.picture{	weigt:1195px;height: 600px;		
+		margin: 15px 15px 15px 15px;
 }
+.first-photo{
+width: 219px;
+height: 219px;}
+.second-photo{width: 219px;
+height: 219px}
+.third-photo{width: 219px;
+height: 219px}
+.four-photo{width: 219px;
+height: 219px}
+.five-photo{width: 219px;
+height: 219px}
 
 
-
+/*text*/
+.text{text-align: center;}
+.paraghraph {text-align: center;font-size: 16px}
+.more-information{background-color: blue;
+	color: white;	padding: 10px 20px;
+	border-radius: 10px;}
 
