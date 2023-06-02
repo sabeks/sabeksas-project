@@ -1,0 +1,27 @@
+ul{
+   list-style-type: none;
+}
+a{
+	text-decoration: none;
+	color: white;
+
+}
+
+.logo {
+
+	color: skyblue;
+	weigt:115px;height: 65px;
+}
+
+.header{
+	background-color: blue;
+}
+
+.foto{
+	weight:1125px;
+	height:600;
+}
+
+
+
+
