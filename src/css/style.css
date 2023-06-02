@@ -16,10 +16,13 @@ a{
 .header{
 	background-color: blue;
 }
-
-.foto{
+.main{
+	text-decoration: underline;
+}
+.picture{
 	weight:1125px;
 	height:600;
+	margin:auto;
 }
 
 
