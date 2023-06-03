@@ -34,17 +34,9 @@ a{
 .picture{	weigt:1195px;height: 600px;		
 		margin: 15px 15px 15px 15px;
 }
-.first-photo{
-width: 219px;
-height: 219px;}
-.second-photo{width: 219px;
-height: 219px}
-.third-photo{width: 219px;
-height: 219px}
-.four-photo{width: 219px;
-height: 219px}
-.five-photo{width: 219px;
-height: 219px}
+.images{display:inline-block
+
+}
 
 
 /*text*/
